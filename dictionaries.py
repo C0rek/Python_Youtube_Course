@@ -6,7 +6,7 @@ product = {
 }
 
 person = {
-    "first_name" = "Corcho"
+    "first_name" = "C0rek"
     "last_name" = "Pipolito"
 }
 
