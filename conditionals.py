@@ -16,16 +16,16 @@ else:
     print("any color")
 
 
-name = "Tomas"
+name = "Iker"
 lastname = "Pipo"
 
-if name == "Tomas":
+if name == "Iker":
     if lastname == "Pipo"
-    print("Hola Tomas Pipo")
+    print("Hola Iker Pipo")
     else:
-        print("No sos Tomas Pipo")
+        print("No sos Iker Pipo")
 else:
-    print("No sos Tomas") 
+    print("No sos Iker") 
 
 if x > 2 and x <= 10:
     #puede ser or
